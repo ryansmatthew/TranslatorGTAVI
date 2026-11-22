@@ -1,0 +1,16 @@
+{
+ "image": "hud_01_720p.png",
+ "layer": "hud",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "Lobby",
+   "bbox": [
+    40,
+    33,
+    100,
+    53
+   ]
+  }
+ ]
+}

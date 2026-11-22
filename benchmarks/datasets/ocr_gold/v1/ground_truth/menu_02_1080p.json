@@ -1,0 +1,16 @@
+{
+ "image": "menu_02_1080p.png",
+ "layer": "menu",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "33TuMama33",
+   "bbox": [
+    150,
+    530,
+    395,
+    570
+   ]
+  }
+ ]
+}

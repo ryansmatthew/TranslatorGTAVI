@@ -1,0 +1,16 @@
+{
+ "image": "hud_02_720p.png",
+ "layer": "hud",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "DWNPLY",
+   "bbox": [
+    40,
+    33,
+    124,
+    53
+   ]
+  }
+ ]
+}

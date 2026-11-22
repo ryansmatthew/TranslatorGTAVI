@@ -1,0 +1,16 @@
+{
+ "image": "hud_02_1080p.png",
+ "layer": "hud",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "DWNPLY",
+   "bbox": [
+    60,
+    50,
+    187,
+    80
+   ]
+  }
+ ]
+}

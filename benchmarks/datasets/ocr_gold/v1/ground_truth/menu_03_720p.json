@@ -1,0 +1,16 @@
+{
+ "image": "menu_03_720p.png",
+ "layer": "menu",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "Downtown Parking Central",
+   "bbox": [
+    100,
+    354,
+    407,
+    380
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "image": "phone_04_1080p.png",
+ "layer": "phone",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "That's one down!",
+   "bbox": [
+    1390,
+    180,
+    1587,
+    206
+   ]
+  }
+ ]
+}

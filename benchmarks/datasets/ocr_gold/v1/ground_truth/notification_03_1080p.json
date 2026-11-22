@@ -1,0 +1,16 @@
+{
+ "image": "notification_03_1080p.png",
+ "layer": "notification",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Yeah, turn your bitch ass around.",
+   "bbox": [
+    1280,
+    65,
+    1719,
+    95
+   ]
+  }
+ ]
+}

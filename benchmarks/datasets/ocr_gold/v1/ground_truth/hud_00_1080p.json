@@ -1,0 +1,16 @@
+{
+ "image": "hud_00_1080p.png",
+ "layer": "hud",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Boobie",
+   "bbox": [
+    60,
+    50,
+    161,
+    80
+   ]
+  }
+ ]
+}

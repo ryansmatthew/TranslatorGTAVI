@@ -1,0 +1,16 @@
+{
+ "image": "menu_05_1080p.png",
+ "layer": "menu",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Shooting Range - Hook",
+   "bbox": [
+    150,
+    530,
+    565,
+    570
+   ]
+  }
+ ]
+}

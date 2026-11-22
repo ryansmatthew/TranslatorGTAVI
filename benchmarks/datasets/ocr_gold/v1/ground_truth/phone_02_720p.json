@@ -1,0 +1,25 @@
+{
+ "image": "phone_02_720p.png",
+ "layer": "phone",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "VCPD! I'm gonna need to take you",
+   "bbox": [
+    927,
+    119,
+    1188,
+    136
+   ]
+  },
+  {
+   "text": "in!",
+   "bbox": [
+    927,
+    142,
+    944,
+    159
+   ]
+  }
+ ]
+}

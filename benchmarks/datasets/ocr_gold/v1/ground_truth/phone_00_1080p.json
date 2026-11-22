@@ -1,0 +1,25 @@
+{
+ "image": "phone_00_1080p.png",
+ "layer": "phone",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "We active, baby, I keep tryin' to tell",
+   "bbox": [
+    1390,
+    180,
+    1788,
+    206
+   ]
+  },
+  {
+   "text": "y'all!",
+   "bbox": [
+    1390,
+    216,
+    1441,
+    242
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "image": "menu_01_720p.png",
+ "layer": "menu",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "Ceecee",
+   "bbox": [
+    100,
+    354,
+    189,
+    380
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "image": "notification_00_720p.png",
+ "layer": "notification",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "It's gonna be a nice pic.",
+   "bbox": [
+    853,
+    43,
+    1062,
+    63
+   ]
+  }
+ ]
+}

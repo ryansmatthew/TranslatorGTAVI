@@ -1,0 +1,16 @@
+{
+ "image": "phone_04_720p.png",
+ "layer": "phone",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "That's one down!",
+   "bbox": [
+    927,
+    119,
+    1055,
+    136
+   ]
+  }
+ ]
+}

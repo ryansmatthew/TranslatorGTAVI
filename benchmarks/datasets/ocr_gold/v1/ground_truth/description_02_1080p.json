@@ -1,0 +1,25 @@
+{
+ "image": "description_02_1080p.png",
+ "layer": "description",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "You can only carry one of each weapon. Switch between weapons",
+   "bbox": [
+    450,
+    489,
+    1446,
+    523
+   ]
+  },
+  {
+   "text": "and unique variants at a locker",
+   "bbox": [
+    450,
+    540,
+    913,
+    574
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "image": "description_05_1080p.png",
+ "layer": "description",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Convenience store at a gas station, selling snacks, drinks, and",
+   "bbox": [
+    450,
+    489,
+    1389,
+    523
+   ]
+  },
+  {
+   "text": "smokes.",
+   "bbox": [
+    450,
+    540,
+    576,
+    574
+   ]
+  }
+ ]
+}

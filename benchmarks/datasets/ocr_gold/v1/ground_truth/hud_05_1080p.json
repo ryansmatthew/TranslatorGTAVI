@@ -1,0 +1,16 @@
+{
+ "image": "hud_05_1080p.png",
+ "layer": "hud",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Setting the Standard",
+   "bbox": [
+    60,
+    50,
+    353,
+    80
+   ]
+  }
+ ]
+}

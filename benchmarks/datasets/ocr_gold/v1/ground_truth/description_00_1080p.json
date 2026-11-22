@@ -1,0 +1,25 @@
+{
+ "image": "description_00_1080p.png",
+ "layer": "description",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "ay ricky, your homie still got that shop in hamlet? need some work",
+   "bbox": [
+    450,
+    489,
+    1439,
+    523
+   ]
+  },
+  {
+   "text": "done",
+   "bbox": [
+    450,
+    540,
+    525,
+    574
+   ]
+  }
+ ]
+}

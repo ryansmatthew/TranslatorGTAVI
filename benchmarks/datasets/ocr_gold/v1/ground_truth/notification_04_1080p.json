@@ -1,0 +1,16 @@
+{
+ "image": "notification_04_1080p.png",
+ "layer": "notification",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Oh fuck! No, no, no! I-I'm out!",
+   "bbox": [
+    1280,
+    65,
+    1670,
+    95
+   ]
+  }
+ ]
+}

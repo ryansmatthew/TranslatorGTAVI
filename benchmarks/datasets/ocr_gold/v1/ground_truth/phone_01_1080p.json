@@ -1,0 +1,16 @@
+{
+ "image": "phone_01_1080p.png",
+ "layer": "phone",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Hey. What's up, you two?",
+   "bbox": [
+    1390,
+    180,
+    1681,
+    206
+   ]
+  }
+ ]
+}

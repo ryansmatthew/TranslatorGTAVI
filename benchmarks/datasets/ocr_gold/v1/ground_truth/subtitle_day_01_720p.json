@@ -1,0 +1,34 @@
+{
+ "image": "subtitle_day_01_720p.png",
+ "layer": "subtitle_day",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "Uh, we both know who's gonna do the teaching...I'll be on manatee watch,",
+   "bbox": [
+    131,
+    585,
+    1149,
+    614
+   ]
+  },
+  {
+   "text": "though...",
+   "bbox": [
+    579,
+    624,
+    701,
+    653
+   ]
+  },
+  {
+   "text": "Uh, 911? I need help... I'm being robbed!",
+   "bbox": [
+    363,
+    663,
+    917,
+    692
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "image": "description_04_1080p.png",
+ "layer": "description",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "TVs spray-painted by street artist Ahol Sniffs Glue. Adopted and",
+   "bbox": [
+    450,
+    489,
+    1409,
+    523
+   ]
+  },
+  {
+   "text": "taken home by Vice City residents once discovered.",
+   "bbox": [
+    450,
+    540,
+    1229,
+    574
+   ]
+  }
+ ]
+}

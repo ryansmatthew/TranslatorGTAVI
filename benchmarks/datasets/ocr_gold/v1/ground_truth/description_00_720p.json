@@ -1,0 +1,25 @@
+{
+ "image": "description_00_720p.png",
+ "layer": "description",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "ay ricky, your homie still got that shop in hamlet? need some work",
+   "bbox": [
+    299,
+    327,
+    939,
+    349
+   ]
+  },
+  {
+   "text": "done",
+   "bbox": [
+    299,
+    360,
+    347,
+    382
+   ]
+  }
+ ]
+}

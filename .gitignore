@@ -1,0 +1,13 @@
+# Generated / local-only — never committed
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+data/
+benchmarks/datasets/ocr_gold/*/images/
+benchmarks/reports/
+*.db
+*.db-shm
+*.db-wal
+.muse-github-snapshot-sync.json

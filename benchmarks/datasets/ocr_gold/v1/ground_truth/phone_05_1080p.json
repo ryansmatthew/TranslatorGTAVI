@@ -1,0 +1,16 @@
+{
+ "image": "phone_05_1080p.png",
+ "layer": "phone",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Halifax's calendar.",
+   "bbox": [
+    1390,
+    180,
+    1600,
+    206
+   ]
+  }
+ ]
+}

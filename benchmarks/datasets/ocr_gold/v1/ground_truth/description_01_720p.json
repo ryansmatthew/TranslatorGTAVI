@@ -1,0 +1,25 @@
+{
+ "image": "description_01_720p.png",
+ "layer": "description",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "Secure storage for your ride. Vehicles parked here will be safe until",
+   "bbox": [
+    299,
+    327,
+    950,
+    349
+   ]
+  },
+  {
+   "text": "you take them out.",
+   "bbox": [
+    299,
+    360,
+    479,
+    382
+   ]
+  }
+ ]
+}

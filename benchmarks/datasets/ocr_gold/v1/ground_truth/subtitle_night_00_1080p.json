@@ -1,0 +1,34 @@
+{
+ "image": "subtitle_night_00_1080p.png",
+ "layer": "subtitle_night",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Hey, titi.Yeah, it's-it's-it's all good.Listen, I just saw Mia,",
+   "bbox": [
+    384,
+    876,
+    1536,
+    920
+   ]
+  },
+  {
+   "text": "But it's my usual table, bro. Ask anybody. Ask Hector.This is the Andrés",
+   "bbox": [
+    211,
+    935,
+    1709,
+    979
+   ]
+  },
+  {
+   "text": "table.",
+   "bbox": [
+    903,
+    994,
+    1017,
+    1038
+   ]
+  }
+ ]
+}

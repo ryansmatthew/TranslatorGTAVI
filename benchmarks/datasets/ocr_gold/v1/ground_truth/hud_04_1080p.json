@@ -1,0 +1,16 @@
+{
+ "image": "hud_04_1080p.png",
+ "layer": "hud",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Manny Muscles",
+   "bbox": [
+    60,
+    50,
+    281,
+    80
+   ]
+  }
+ ]
+}

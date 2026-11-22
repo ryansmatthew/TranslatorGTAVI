@@ -1,0 +1,16 @@
+{
+ "image": "menu_00_720p.png",
+ "layer": "menu",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "Ibis Ln",
+   "bbox": [
+    100,
+    354,
+    176,
+    380
+   ]
+  }
+ ]
+}

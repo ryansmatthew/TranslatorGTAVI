@@ -1,0 +1,25 @@
+{
+ "image": "notification_05_720p.png",
+ "layer": "notification",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "Shit! Cops are so unreceptive to my",
+   "bbox": [
+    853,
+    43,
+    1169,
+    63
+   ]
+  },
+  {
+   "text": "energy.",
+   "bbox": [
+    853,
+    71,
+    918,
+    91
+   ]
+  }
+ ]
+}

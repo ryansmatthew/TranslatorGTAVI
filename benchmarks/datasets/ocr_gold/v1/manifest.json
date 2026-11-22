@@ -1,0 +1,418 @@
+{
+ "version": "v1",
+ "seed": 20261122,
+ "synthetic": true,
+ "source": "en_display strings from gta6.db, rendered with Liberation Sans",
+ "note": "SYNTHETIC stand-in for real Remote Play frames (none available yet). Replace/extend with real frames on the user PC; benchmark code unchanged.",
+ "items": [
+  {
+   "id": "subtitle_day_00_1080p",
+   "layer": "subtitle_day",
+   "resolution": "1080p",
+   "n_lines": 3
+  },
+  {
+   "id": "subtitle_day_00_720p",
+   "layer": "subtitle_day",
+   "resolution": "720p",
+   "n_lines": 3
+  },
+  {
+   "id": "subtitle_day_01_1080p",
+   "layer": "subtitle_day",
+   "resolution": "1080p",
+   "n_lines": 3
+  },
+  {
+   "id": "subtitle_day_01_720p",
+   "layer": "subtitle_day",
+   "resolution": "720p",
+   "n_lines": 3
+  },
+  {
+   "id": "subtitle_night_00_1080p",
+   "layer": "subtitle_night",
+   "resolution": "1080p",
+   "n_lines": 3
+  },
+  {
+   "id": "subtitle_night_00_720p",
+   "layer": "subtitle_night",
+   "resolution": "720p",
+   "n_lines": 3
+  },
+  {
+   "id": "subtitle_night_01_1080p",
+   "layer": "subtitle_night",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "subtitle_night_01_720p",
+   "layer": "subtitle_night",
+   "resolution": "720p",
+   "n_lines": 2
+  },
+  {
+   "id": "menu_00_1080p",
+   "layer": "menu",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_00_720p",
+   "layer": "menu",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_01_1080p",
+   "layer": "menu",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_01_720p",
+   "layer": "menu",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_02_1080p",
+   "layer": "menu",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_02_720p",
+   "layer": "menu",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_03_1080p",
+   "layer": "menu",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_03_720p",
+   "layer": "menu",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_04_1080p",
+   "layer": "menu",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_04_720p",
+   "layer": "menu",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_05_1080p",
+   "layer": "menu",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "menu_05_720p",
+   "layer": "menu",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_00_1080p",
+   "layer": "hud",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_00_720p",
+   "layer": "hud",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_01_1080p",
+   "layer": "hud",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_01_720p",
+   "layer": "hud",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_02_1080p",
+   "layer": "hud",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_02_720p",
+   "layer": "hud",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_03_1080p",
+   "layer": "hud",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_03_720p",
+   "layer": "hud",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_04_1080p",
+   "layer": "hud",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_04_720p",
+   "layer": "hud",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_05_1080p",
+   "layer": "hud",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "hud_05_720p",
+   "layer": "hud",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "phone_00_1080p",
+   "layer": "phone",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "phone_00_720p",
+   "layer": "phone",
+   "resolution": "720p",
+   "n_lines": 2
+  },
+  {
+   "id": "phone_01_1080p",
+   "layer": "phone",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "phone_01_720p",
+   "layer": "phone",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "phone_02_1080p",
+   "layer": "phone",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "phone_02_720p",
+   "layer": "phone",
+   "resolution": "720p",
+   "n_lines": 2
+  },
+  {
+   "id": "phone_03_1080p",
+   "layer": "phone",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "phone_03_720p",
+   "layer": "phone",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "phone_04_1080p",
+   "layer": "phone",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "phone_04_720p",
+   "layer": "phone",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "phone_05_1080p",
+   "layer": "phone",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "phone_05_720p",
+   "layer": "phone",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_00_1080p",
+   "layer": "notification",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_00_720p",
+   "layer": "notification",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_01_1080p",
+   "layer": "notification",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_01_720p",
+   "layer": "notification",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_02_1080p",
+   "layer": "notification",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_02_720p",
+   "layer": "notification",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_03_1080p",
+   "layer": "notification",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_03_720p",
+   "layer": "notification",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_04_1080p",
+   "layer": "notification",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_04_720p",
+   "layer": "notification",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "notification_05_1080p",
+   "layer": "notification",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "notification_05_720p",
+   "layer": "notification",
+   "resolution": "720p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_00_1080p",
+   "layer": "description",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_00_720p",
+   "layer": "description",
+   "resolution": "720p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_01_1080p",
+   "layer": "description",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_01_720p",
+   "layer": "description",
+   "resolution": "720p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_02_1080p",
+   "layer": "description",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_02_720p",
+   "layer": "description",
+   "resolution": "720p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_03_1080p",
+   "layer": "description",
+   "resolution": "1080p",
+   "n_lines": 1
+  },
+  {
+   "id": "description_03_720p",
+   "layer": "description",
+   "resolution": "720p",
+   "n_lines": 1
+  },
+  {
+   "id": "description_04_1080p",
+   "layer": "description",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_04_720p",
+   "layer": "description",
+   "resolution": "720p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_05_1080p",
+   "layer": "description",
+   "resolution": "1080p",
+   "n_lines": 2
+  },
+  {
+   "id": "description_05_720p",
+   "layer": "description",
+   "resolution": "720p",
+   "n_lines": 2
+  }
+ ],
+ "total_images": 68
+}

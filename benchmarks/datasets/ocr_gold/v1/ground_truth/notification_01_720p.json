@@ -1,0 +1,16 @@
+{
+ "image": "notification_01_720p.png",
+ "layer": "notification",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "Why you doing all that, bro?",
+   "bbox": [
+    853,
+    43,
+    1100,
+    63
+   ]
+  }
+ ]
+}

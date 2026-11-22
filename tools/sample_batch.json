@@ -1,0 +1,379 @@
+[
+  {
+    "id": "C0653_0827ABC3",
+    "group": "ui-short",
+    "en": "Hole 14 - Shell Shocked",
+    "en_display": "Hole 14 - Shell Shocked",
+    "markers": []
+  },
+  {
+    "id": "C0653_13FAF1A6",
+    "group": "ui-short",
+    "en": "Hole 9 - Lizard Loop",
+    "en_display": "Hole 9 - Lizard Loop",
+    "markers": []
+  },
+  {
+    "id": "C0653_1FC49454",
+    "group": "ui-short",
+    "en": "Leaf Links",
+    "en_display": "Leaf Links",
+    "markers": []
+  },
+  {
+    "id": "C0653_27DAB806",
+    "group": "ui-short",
+    "en": "Hole 15 - Marine Monster",
+    "en_display": "Hole 15 - Marine Monster",
+    "markers": []
+  },
+  {
+    "id": "C0653_28B48F61",
+    "group": "ui-short",
+    "en": "Ball is Out of Bounds",
+    "en_display": "Ball is Out of Bounds",
+    "markers": []
+  },
+  {
+    "id": "C0653_2BA54396",
+    "group": "ui-short",
+    "en": "Hole 3 - Triceratops Turn",
+    "en_display": "Hole 3 - Triceratops Turn",
+    "markers": []
+  },
+  {
+    "id": "C0653_2CB44A44",
+    "group": "ui-short",
+    "en": "Hole 6 - Stego-Slide",
+    "en_display": "Hole 6 - Stego-Slide",
+    "markers": []
+  },
+  {
+    "id": "C0653_3030D1CB",
+    "group": "ui-short",
+    "en": "Hole ~1~",
+    "en_display": "Hole ~1~",
+    "markers": [
+      {
+        "marker": "~1~",
+        "start": 5,
+        "end": 8,
+        "kind": "placeholder"
+      }
+    ]
+  },
+  {
+    "id": "C0653_32332D59",
+    "group": "ui-short",
+    "en": "Strokes",
+    "en_display": "Strokes",
+    "markers": []
+  },
+  {
+    "id": "C0653_4230121B",
+    "group": "ui-short",
+    "en": "Hole-In-One",
+    "en_display": "Hole-In-One",
+    "markers": []
+  },
+  {
+    "id": "C0000_37A96F4A",
+    "group": "subtitle-long",
+    "en": "Alright, you know how this works.Hands at your sides and raise a leg for me.Keep it raised until I'm satisfied.",
+    "en_display": "Alright, you know how this works.Hands at your sides and raise a leg for me.Keep it raised until I'm satisfied.",
+    "markers": []
+  },
+  {
+    "id": "C0000_3DE4E538",
+    "group": "subtitle-long",
+    "en": "Anyway, Psych was that Carol lady with the two rescues,so I told her about how Carl's been feeding strays to his python.Man, I never saw sympathy leave a face faster.Man's gonna do some time.",
+    "en_display": "Anyway, Psych was that Carol lady with the two rescues,so I told her about how Carl's been feeding strays to his python.Man, I never saw sympathy leave a face faster.Man's gonna do some time.",
+    "markers": []
+  },
+  {
+    "id": "C0000_441CA623",
+    "group": "subtitle-long",
+    "en": "I mean straight away you're thinking meth. All the meth.But it turns out he did this shit sober.Got an community online and everything.",
+    "en_display": "I mean straight away you're thinking meth. All the meth.But it turns out he did this shit sober.Got an community online and everything.",
+    "markers": []
+  },
+  {
+    "id": "C0000_6C67D814",
+    "group": "subtitle-long",
+    "en": "I swear the social media stuff some of these beach guys are doing.I heard they totally get a bonus if it gets enough likes.",
+    "en_display": "I swear the social media stuff some of these beach guys are doing.I heard they totally get a bonus if it gets enough likes.",
+    "markers": []
+  },
+  {
+    "id": "C0000_9D98D8BD",
+    "group": "subtitle-long",
+    "en": "Man.... I swear to God, it was the weirdest interview I've ever done.“I am a deer, officer.” Deadpan. Serious.It wasn't even Halloween or anything, he just... thought he was a deer.",
+    "en_display": "Man.... I swear to God, it was the weirdest interview I've ever done.“I am a deer, officer.” Deadpan. Serious.It wasn't even Halloween or anything, he just... thought he was a deer.",
+    "markers": []
+  },
+  {
+    "id": "C0000_9E9FA62C",
+    "group": "subtitle-long",
+    "en": "Here we go. I'm going to have you walk in a straight line,then turn around and walk back.You really wanna try to act sober now.",
+    "en_display": "Here we go. I'm going to have you walk in a straight line,then turn around and walk back.You really wanna try to act sober now.",
+    "markers": []
+  },
+  {
+    "id": "C0000_BFF882FE",
+    "group": "subtitle-long",
+    "en": "Apparently he put someone in a coma this time.Psych tried to take him,but I told 'em don't fall for this fucker's bullshit, not again.",
+    "en_display": "Apparently he put someone in a coma this time.Psych tried to take him,but I told 'em don't fall for this fucker's bullshit, not again.",
+    "markers": []
+  },
+  {
+    "id": "C0000_C06E8024",
+    "group": "subtitle-long",
+    "en": "That's the hotel over there. Triple homicide...They never found the ear.",
+    "en_display": "That's the hotel over there. Triple homicide...They never found the ear.",
+    "markers": []
+  },
+  {
+    "id": "C0000_D3FFB9B5",
+    "group": "subtitle-long",
+    "en": "Literal antlers. Like, fused to his skull.I was thinking, like, how do I even take a mugshot of this asshole?",
+    "en_display": "Literal antlers. Like, fused to his skull.I was thinking, like, how do I even take a mugshot of this asshole?",
+    "markers": []
+  },
+  {
+    "id": "C0000_D49443B1",
+    "group": "subtitle-long",
+    "en": "Now I'm online cause I gotta know more,and next thing you know I'm getting ads for this shit...Dunno though, maybe I'd look cute with a pair of ears...",
+    "en_display": "Now I'm online cause I gotta know more,and next thing you know I'm getting ads for this shit...Dunno though, maybe I'd look cute with a pair of ears...",
+    "markers": []
+  },
+  {
+    "id": "C0006_372AAC33",
+    "group": "template",
+    "en": "~sl:0:3.51~Okay. Well in that case I'm gonna have to give you a choice, okay?~sl:0:3.03~You can order your staff to give me a refund~sl:0:3.67~or you can take my $4.99 today, I'll let you have it, okay?~sl:0~But your company will never get another cent from me,",
+    "en_display": "Okay. Well in that case I'm gonna have to give you a choice, okay?You can order your staff to give me a refundor you can take my $4.99 today, I'll let you have it, okay?But your company will never get another cent from me,",
+    "markers": [
+      {
+        "marker": "~sl:0:3.51~",
+        "start": 0,
+        "end": 11,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0:3.03~",
+        "start": 77,
+        "end": 88,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0:3.67~",
+        "start": 132,
+        "end": 143,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0~",
+        "start": 202,
+        "end": 208,
+        "kind": "timing"
+      }
+    ]
+  },
+  {
+    "id": "C0015_BF95EB4A",
+    "group": "template",
+    "en": "~sl:0:3.57~Like this- this young guy at my club the other night,~sl:0:3.51~he's like uh, 18 years old, real killer, I like him a lot,~sl:0~and he asks how I got the seed money to get my real estate firm up and running.",
+    "en_display": "Like this- this young guy at my club the other night,he's like uh, 18 years old, real killer, I like him a lot,and he asks how I got the seed money to get my real estate firm up and running.",
+    "markers": [
+      {
+        "marker": "~sl:0:3.57~",
+        "start": 0,
+        "end": 11,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0:3.51~",
+        "start": 64,
+        "end": 75,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0~",
+        "start": 133,
+        "end": 139,
+        "kind": "timing"
+      }
+    ]
+  },
+  {
+    "id": "C0015_E97A5499",
+    "group": "template",
+    "en": "~sl:0:1.21~Oh, and just so you know,~sl:0:2.41~I will find out who owns your apartment building,~sl:0:1.5~and your rent will be being raised~sl:0~by at least 10% once your current lease is up!",
+    "en_display": "Oh, and just so you know,I will find out who owns your apartment building,and your rent will be being raisedby at least 10% once your current lease is up!",
+    "markers": [
+      {
+        "marker": "~sl:0:1.21~",
+        "start": 0,
+        "end": 11,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0:2.41~",
+        "start": 36,
+        "end": 47,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0:1.5~",
+        "start": 96,
+        "end": 106,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0~",
+        "start": 140,
+        "end": 146,
+        "kind": "timing"
+      }
+    ]
+  },
+  {
+    "id": "C0105_457465E9",
+    "group": "template",
+    "en": "~sl:0:2.25~911, it's an emergency, dude!~sl:0:3.02~A crazy person literally just beat the shit outta me.~sl:0~Like, so bad. I need help!",
+    "en_display": "911, it's an emergency, dude!A crazy person literally just beat the shit outta me.Like, so bad. I need help!",
+    "markers": [
+      {
+        "marker": "~sl:0:2.25~",
+        "start": 0,
+        "end": 11,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0:3.02~",
+        "start": 40,
+        "end": 51,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0~",
+        "start": 104,
+        "end": 110,
+        "kind": "timing"
+      }
+    ]
+  },
+  {
+    "id": "C0127_9FADFFC8",
+    "group": "template",
+    "en": "~sl:0:1.13~911?~sl:0.2:3.32~I was just assaulted by a motherfucker out here foaming at the mouth.~sl:0.06~It's giving drugs, it's giving psychosis, it's giving get yo' ass down here immediately!",
+    "en_display": "911?I was just assaulted by a motherfucker out here foaming at the mouth.It's giving drugs, it's giving psychosis, it's giving get yo' ass down here immediately!",
+    "markers": [
+      {
+        "marker": "~sl:0:1.13~",
+        "start": 0,
+        "end": 11,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0.2:3.32~",
+        "start": 15,
+        "end": 28,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0.06~",
+        "start": 97,
+        "end": 106,
+        "kind": "timing"
+      }
+    ]
+  },
+  {
+    "id": "C0000_150DDF35",
+    "group": "with-markers",
+    "en": "~sl:0:0.94~Thank you...~sl:0.2~Fuck you, bye.",
+    "en_display": "Thank you...Fuck you, bye.",
+    "markers": [
+      {
+        "marker": "~sl:0:0.94~",
+        "start": 0,
+        "end": 11,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0.2~",
+        "start": 23,
+        "end": 31,
+        "kind": "timing"
+      }
+    ]
+  },
+  {
+    "id": "C0000_AB3B8829",
+    "group": "with-markers",
+    "en": "~sl:1.53~What time you getting home then?",
+    "en_display": "What time you getting home then?",
+    "markers": [
+      {
+        "marker": "~sl:1.53~",
+        "start": 0,
+        "end": 9,
+        "kind": "timing"
+      }
+    ]
+  },
+  {
+    "id": "C0000_C2D692B3",
+    "group": "with-markers",
+    "en": "~sl:0:0.91~Hey...~sl:0.9~Yeah, I know it's you.",
+    "en_display": "Hey...Yeah, I know it's you.",
+    "markers": [
+      {
+        "marker": "~sl:0:0.91~",
+        "start": 0,
+        "end": 11,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0.9~",
+        "start": 17,
+        "end": 25,
+        "kind": "timing"
+      }
+    ]
+  },
+  {
+    "id": "C0000_E0A862D4",
+    "group": "with-markers",
+    "en": "~sl:0.76~Yeah, you're hilarious.",
+    "en_display": "Yeah, you're hilarious.",
+    "markers": [
+      {
+        "marker": "~sl:0.76~",
+        "start": 0,
+        "end": 9,
+        "kind": "timing"
+      }
+    ]
+  },
+  {
+    "id": "C0000_E9C1DB10",
+    "group": "with-markers",
+    "en": "~sl:0:1.24~You got nothing to say?~sl:0.47~You sure you don't want to give me any more evidence to use against you?",
+    "en_display": "You got nothing to say?You sure you don't want to give me any more evidence to use against you?",
+    "markers": [
+      {
+        "marker": "~sl:0:1.24~",
+        "start": 0,
+        "end": 11,
+        "kind": "timing"
+      },
+      {
+        "marker": "~sl:0.47~",
+        "start": 34,
+        "end": 43,
+        "kind": "timing"
+      }
+    ]
+  }
+]

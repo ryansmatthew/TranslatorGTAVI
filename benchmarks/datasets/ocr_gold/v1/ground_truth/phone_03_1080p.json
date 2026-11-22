@@ -1,0 +1,25 @@
+{
+ "image": "phone_03_1080p.png",
+ "layer": "phone",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "In Spanish: Don't fuck with me,",
+   "bbox": [
+    1390,
+    180,
+    1746,
+    206
+   ]
+  },
+  {
+   "text": "girlie.",
+   "bbox": [
+    1390,
+    216,
+    1452,
+    242
+   ]
+  }
+ ]
+}

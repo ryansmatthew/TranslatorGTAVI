@@ -1,0 +1,16 @@
+{
+ "image": "menu_04_1080p.png",
+ "layer": "menu",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "FUUUUUUCK GRAVITY HELL YEAH",
+   "bbox": [
+    150,
+    530,
+    815,
+    570
+   ]
+  }
+ ]
+}

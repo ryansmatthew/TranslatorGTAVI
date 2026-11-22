@@ -1,0 +1,16 @@
+{
+ "image": "hud_03_1080p.png",
+ "layer": "hud",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Bravado Gresley XT",
+   "bbox": [
+    60,
+    50,
+    345,
+    80
+   ]
+  }
+ ]
+}

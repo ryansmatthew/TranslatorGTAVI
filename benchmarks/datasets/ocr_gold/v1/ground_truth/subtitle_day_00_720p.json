@@ -1,0 +1,34 @@
+{
+ "image": "subtitle_day_00_720p.png",
+ "layer": "subtitle_day",
+ "resolution": "720p",
+ "lines": [
+  {
+   "text": "Oh God, that- that's Stacy! Quick!Quick, come on, get ready to spray!",
+   "bbox": [
+    163,
+    585,
+    1117,
+    614
+   ]
+  },
+  {
+   "text": "Eh, how much we wanna put in here?I don't want Tommy being some",
+   "bbox": [
+    163,
+    624,
+    1117,
+    653
+   ]
+  },
+  {
+   "text": "trust fund kid.",
+   "bbox": [
+    543,
+    663,
+    737,
+    692
+   ]
+  }
+ ]
+}

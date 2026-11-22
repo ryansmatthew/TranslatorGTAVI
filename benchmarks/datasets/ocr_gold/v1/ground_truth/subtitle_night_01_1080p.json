@@ -1,0 +1,25 @@
+{
+ "image": "subtitle_night_01_1080p.png",
+ "layer": "subtitle_night",
+ "resolution": "1080p",
+ "lines": [
+  {
+   "text": "Vice City 305.Oh, yeah.Shoutout all my out of towners!",
+   "bbox": [
+    390,
+    906,
+    1530,
+    950
+   ]
+  },
+  {
+   "text": "Okay, Ocean Drive.You guys want me to drop you off somewhere, or?",
+   "bbox": [
+    234,
+    965,
+    1686,
+    1009
+   ]
+  }
+ ]
+}
