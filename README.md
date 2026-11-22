@@ -80,6 +80,8 @@ python3 -m venv .venv
 
 On the Windows PC with an RTX 3060, install the GPU build of PaddlePaddle
 instead of the CPU one (see `requirements-ocr.txt`) and pass `use_gpu=True`.
+File DataBase translated:
+https://drive.google.com/file/d/1t5885LfphoQxVVuwfDcy1YeyJWRazddx/view?usp=sharing
 
 ## What is NOT in this repo (and why)
 
